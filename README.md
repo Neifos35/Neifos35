@@ -1,4 +1,4 @@
-![Sofien](Photocv.jpg)
+![Sofien](Photocv.jpg)<size: 30px>
 
 ### Hi there 👋
 
