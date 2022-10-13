@@ -6,10 +6,26 @@
 ## Biographie  
 Efficace : j’aime comprendre le fonctionnement des choses et atteindre mes objectifs, livrer les résultats attendus ou demandés. Responsable et moteur de mes projets je me donne les moyens d’atteindre mes objectifs. Orienté solution et résultats, je fais face aux imprévus en utilisant au mieux les ressources à ma disposition
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+## Parcours
+- 📚 *2022-2024 - BTS Services Informatiques aux Organisations (SIO)* option Solutions Logicielles et Applications Métiers en alternance  
+  *ESIEE-IT*, école de la CCI Paris IDF, Pontoise  
+  
+- ⚗️ *2019-2022 - Licence de physique chimie*  
+   *CY Tech*, Cergy  
+  
+- 👨‍🎓 *Juin 2019 Baccalauréat Scientifique (option Sciences de l’Ingénieur) obtenu avec mention*
+
+## Technologies
+ - 🧑‍ HTML/CSS
+ - 🐍 Python
+ - 👨‍💻 Flutter (dart) 
+ - 💻 PHP
+ - 💾 SQL
+ - 👨‍🏭 Actuellement en formation Delmia Apriso
+   
+## Ce qui me passionne récemment
+- 🔒 Cybersécurité
+- ♛ Chess
+- 💡 Apprendre de nouvelles choses
+
 
