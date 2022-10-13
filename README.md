@@ -1,4 +1,4 @@
-![Sofien](Photocv.jpg)<height: 30px>
+![Sofien](Photocv.jpg =100x20)
 
 ### Hi there 👋
 
