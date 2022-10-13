@@ -1,4 +1,4 @@
-<img src="Photocv.jpg" alt="Sofien" width="200"/>
+<img src="Photocv.jpg" alt="Sofien" width="200"/><img{display:flex;justify-content: center;}>
 
 ### Hi there 👋
 
