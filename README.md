@@ -10,8 +10,8 @@ Efficace : j’aime comprendre le fonctionnement des choses et atteindre mes obj
 - 📚 **2022-2024 - BTS Services Informatiques aux Organisations (SIO)** option Solutions Logicielles et Applications Métiers en alternance  
   **ESIEE-IT**, école de la CCI Paris IDF, Pontoise  
   
-- ⚗️ **2019-2022 - Licence de physique chimie   
-   *CY Tech**, Cergy  
+- ⚗️ **2019-2022 - Licence de physique chimie**   
+   **CY Tech**, Cergy  
   
 - 👨‍🎓 **Juin 2019 Baccalauréat Scientifique (option Sciences de l’Ingénieur) obtenu avec mention**
 
