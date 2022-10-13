@@ -1,4 +1,4 @@
-![Sofien](photocv.jpg)
+![Sofien](Photocv.jpg)
 
 ### Hi there 👋
 
