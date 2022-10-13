@@ -1,4 +1,4 @@
-![Sofien](Photocv.jpg =100x20)
+<img src="Photocv.jpg" alt="Sofien" width="200"/>
 
 ### Hi there 👋
 
