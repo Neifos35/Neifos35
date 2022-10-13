@@ -16,9 +16,9 @@ Efficace : j’aime comprendre le fonctionnement des choses et atteindre mes obj
 - 👨‍🎓 **Juin 2019 Baccalauréat Scientifique (option Sciences de l’Ingénieur) obtenu avec mention**
 
 ## Technologies
- - 🧑‍ HTML/CSS
+ - 💻 HTML/CSS
  - 🐍 Python
- - 👨‍💻 Flutter (dart) 
+ - 📱 Flutter (dart) 
  - 💻 PHP
  - 💾 SQL
  - 👨‍🏭 Actuellement en formation Delmia Apriso
