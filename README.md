@@ -1,4 +1,4 @@
-<img src="Photocv.jpg" alt="Sofien" width="200" background=#092327/>
+<img src="Photocv.jpg" alt="Sofien" width="200"/> <background=#092327>
 
 ### Hi there 👋
 
